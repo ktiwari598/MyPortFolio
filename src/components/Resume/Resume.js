@@ -7,7 +7,7 @@ import Linkcontent from "./Link";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import axios from "axios";
-import pdf from "../../Assets/Raj_Agrawal_Mohit__Software__Developer.pdf";
+import pdf from "../../Assets/Raj_Agrawal_Mohit_Software_Engineer.pdf";
 
 function Resume() {
   const uri = "https://vercel-backend-api-for-portfolio.vercel.app/ranks";
