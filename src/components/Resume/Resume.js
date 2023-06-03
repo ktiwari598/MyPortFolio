@@ -41,26 +41,29 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="KRISHIFY | Software Engineer Intern"
-              date="March 2021 - May 2021"
+              title="TEKION CORP | Associate Software Engineer"
+              date="Jan 2022 - Ongoing"
               content={[
-                " Worked on designing and writing frontend logic for web app of krishify.",
-                " Used technology like React, Redux, Next.js, Material UI, CSS3 and Javascript ES6.",
+                " Build a dashboard app for Chatbot, that helps dealers to setup their bots.",
+                " Developed a feature that helps the agent to transfer the chat with information and get data in real-time using Pusher implementation.",
+                " Developed a Contact Center Application that helps supervisors to communicate with all dealers and also implements agent availability based on his/her activeness on the website using Web Worker.",
+                " Improved the efficiency of the Employee Hour Application by optimizing the code and removing repeated API calls.",
+                " Technology : React, Redux, Web Worker, Pusher, Javascript, ES6."
               ]}
             />
             <Resumecontent
-              title="Frontend and Backend Developer - Smart Room Ventilator, IIITDM Jabalpur"
-              date="Feb 2020 - August 2020"
+              title="KRISHIFY | Software Engineer Intern"
+              date="Mar 2021 - May 2021"
               content={[
-                " Real time monitoring the quality of air and analyzing the data on an web app and also control device features like (ON/OFF, Notification, Fan Speed etc.) using web app.",
-                " Sponsored by DIC, MHRD, Govt. Of India and Mentor by Dean of Discipline and Dean of Academic",
+                " Created a Polling Page regarding Farmer Bill which helped a lot in the marketing of this company.",
+                " Created an Animal Sell Page here, that helps farmers to sell animals with many information. This was also very helpful to increase the followers of this company.",
               ]}
             />
             <h3 className="resume-title">Extracurricular Activities</h3>
             <Resumecontent
-              title="AI Exhibition Coordinator  [ INVICTA'20 Technical Fest of IIITDM Jabalpur ]"
+              title="SMART ROOM VENTILATOR, IIITDM JABALPUR | Full Stack Developer"
               content={[
-                "Worked on a labeling image dataset and coordinate fest",
+                "Real time monitoring the quality of air and analyzing the data on an web app. Sponsored by DIC, MHRD, Govt. Of India and Mentor by Dean of Discipline and Dean of Academic",
               ]}
             />
           </Col>
@@ -68,8 +71,8 @@ function Resume() {
             <h3 className="resume-title">Education</h3>
             <Resumecontent
               title="Electronic and Communication [ PDPM IIITDM ] "
-              date="2018 - Present"
-              content={[`CGPA: ${7.4} (Till ${6}th Sem)`]}
+              date="2018 - 2022"
+              content={[`CGPA: ${7.4}`]}
             />
             <Resumecontent
               title="12TH BOARD [Manav Bharti National Public School, Gaya]"
