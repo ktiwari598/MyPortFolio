@@ -57,6 +57,7 @@ function About() {
           <Techstack iconName="cib-anaconda" />
           <Techstack iconName="cib-postman" />
           <Techstack iconName="cib-netlify" />
+          <Techstack iconName="cib-zeit" />
           <Techstack iconName="cib-heroku" />
         </Row>
       </Container>
