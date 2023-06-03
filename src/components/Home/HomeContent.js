@@ -19,7 +19,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="crimson"> Python and Javascript. </b>
+                <b className="crimson"> React, Redux, Javascript Python. </b>
               </i>
               <br />
               <br />
