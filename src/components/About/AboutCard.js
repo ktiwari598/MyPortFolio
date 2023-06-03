@@ -12,7 +12,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Raj Agrawal Mohit </span>
             from <span className="purple"> Bihar, India.</span>
             <br />
-            I did my graduation from PDPM IIITDM. A passionate individual who always thrive to work
+            I did my graduation from PDPM IIITDM. I'm a passionate individual who always thrive to work
             on end to end products which develop sustainable and scalable social
             and technical systems to create impact. My strengths are I am self-motivated, hard-working and a disciplined person.
             <br />
