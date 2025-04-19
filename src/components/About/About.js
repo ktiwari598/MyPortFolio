@@ -38,16 +38,18 @@ function About() {
           Professional <strong className="crimson">Skillset </strong>
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-          <Techstack iconName="devicon-react-original-wordmark" />
-          <Techstack iconName="devicon-redux-original" />
-          <Techstack iconName="devicon-javascript-plain " />
-          <Techstack iconName="devicon-python-plain-wordmark " />
-          <Techstack iconName="devicon-nodejs-plain-wordmark " />
-          <Techstack iconName="devicon-express-original-wordmark" />
-          <Techstack iconName="devicon-mongodb-plain-wordmark" />
-          <Techstack iconName="devicon-git-plain-wordmark" />
-          <Techstack iconName="devicon-mysql-plain" />
-          <Techstack iconName="devicon-bootstrap-plain-wordmark" />
+        <Techstack iconName="devicon-java-plain-wordmark" />  
+        <Techstack iconName="devicon-cplusplus-plain-wordmark" />  
+        <Techstack iconName="devicon-javascript-plain" />  
+        <Techstack iconName="devicon-mysql-plain-wordmark" />  
+        <Techstack iconName="devicon-mongodb-plain-wordmark" />  
+        <Techstack iconName="devicon-amazonwebservices-plain-wordmark" />
+        <Techstack iconName="devicon-kubernetes-plain-wordmark" /> 
+        <Techstack iconName="devicon-docker-plain-wordmark" /> 
+        <Techstack iconName="devicon-linux-plain" /> 
+        <Techstack iconName="devicon-git-plain-wordmark" /> 
+        <Techstack iconName="devicon-elasticsearch-plain-wordmark" /> 
+        <Techstack iconName="devicon-redis-plain-wordmark" /> 
         </Row>
         <h1 className="project-heading">
           <strong className="crimson">Tools</strong> I use
@@ -55,10 +57,9 @@ function About() {
         <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
           <Techstack iconName="cib-visual-studio-code" />
           <Techstack iconName="cib-anaconda" />
-          <Techstack iconName="cib-postman" />
-          <Techstack iconName="cib-netlify" />
-          <Techstack iconName="cib-zeit" />
           <Techstack iconName="cib-heroku" />
+          <Techstack iconName="cib-postman" />
+          <Techstack iconName="cib-gitlab" />
         </Row>
       </Container>
     </Container>
