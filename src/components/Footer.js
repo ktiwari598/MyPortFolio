@@ -10,7 +10,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Raj Agrawal Mohit</h3>
+          <h3>Designed and Developed by Karan Tiwari</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} M</h3>
@@ -19,7 +19,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/agrawalmohit1234"
+                href="https://github.com/ktiwari598"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-github"></i>
@@ -27,7 +27,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="mailto:rajagrawalmohit2@gmail.com"
+                href="mailto:karantiwarionline@gmail.com"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-google-plus"></i>
@@ -35,7 +35,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/raj-agrawal-mohit-09b484189"
+                href="https://www.linkedin.com/in/tiwari-karan/"
                 style={{ color: "white" }}
               >
                 <i className="fab fa-linkedin-in"></i>

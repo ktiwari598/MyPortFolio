@@ -19,14 +19,14 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="crimson"> React, Redux, Javascript Python. </b>
+                <b className="crimson"> Java, C++, React, Database Design, and more. </b>
               </i>
               <br />
               <br />
               My current focus is on &nbsp;
               <i>
                 <b className="crimson">
-                  MERN Stack and DSA and Algorithm.
+                  Backend Development with AI services.
                 </b>
               </i>
               <br />
@@ -34,11 +34,11 @@ function Home2() {
               Whenever possible, I also apply my passion for developing products
               with
               <i>
-                <b className="crimson"> Modern Javascript Frameworks </b>
+                <b className="crimson"> LLMs and AI services </b>
               </i>
               like
               <i>
-                <b className="crimson"> Node.js and React.js</b>
+                <b className="crimson"> ChatGPT, Gemini, and more. </b>
               </i>
             </p>
           </Col>
@@ -57,7 +57,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/agrawalmohit1234"
+                  href="https://github.com/ktiwari598"
                   className="icon-colour  home-social-icons"
                 >
                   <i className="fab fa-github"></i>
@@ -65,7 +65,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/raj-agrawal-mohit-09b484189"
+                  href="https://www.linkedin.com/in/tiwari-karan/"
                   className="icon-colour  home-social-icons"
                 >
                   <i className="fab fa-linkedin-in"></i>
@@ -73,7 +73,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:rajagrawalmohit2@gmail.com"
+                  href="mailto:karantiwarionline@gmail.com"
                   className="icon-colour home-social-icons"
                 >
                   <i className="fab fa-google-plus"></i>

@@ -5,8 +5,8 @@ import Particle from "../Particle";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import File_Sharing from "../../Assets/Projects/File_Sharing.png";
-import Social_Media from "../../Assets/Projects/Social_Media.png";
+import IIITBuyNSell from "../../Assets/Projects/IIITBuyNSell.png";
+import Pocket_News from "../../Assets/Projects/Pocket_News.png";
 
 function Projects() {
   return (
@@ -14,7 +14,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="crimson">Works </strong>
+          Few <strong className="crimson">Projects </strong>
         </h1>
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
@@ -22,20 +22,20 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={Social_Media}
+              imgPath={Pocket_News}
               isBlog={false}
-              title="Social Media App"
-              description="Explore the capabilities of the MERN stack by implementing social media features, such as post sharing, liking, commenting, following friends, and an aggregated newsfeed. The main purpose of this application is to demonstrate how to use the MERN stack technologies to implement features that allow users to connect orfollow each other, and interact over shared content."
-              link="https://social-media-client-navy.vercel.app/"
+              title="Pocket News"
+              description="This project is a simple and easy-to-use news platform that provides short news summaries, much like Inshorts, so users can quickly catch up on the latest stories. Besides reading news, users can comment on articles and connect with people who have similar interests. The platform is designed to be mobile-friendly, allowing users to stay updated and engaged anytime, anywhere."
+              link="https://github.com/ktiwari598/pocket-news"
             />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={File_Sharing}
+              imgPath={IIITBuyNSell}
               isBlog={false}
-              title="File Sharing App"
-              description="In this project we will build API for a file sharing app using Node Js, Express Js and Mongo DB and I will learn how to upload a file in Node Js. For that we will use a package called Multer. We will also use nodemailer to send emails from our node server. Finally we will deploy this project on the live server. We will deploy it on Heroku server "
-              link="https://file-share-frontend.vercel.app/"
+              title="IIIT BuyNSell"
+              description="This project is a dedicated platform developed for the IIITDM Jabalpur community, enabling students and faculty members to conveniently buy and sell pre-owned items within the campus. It eliminates the need for physical effort and time spent searching for buyers or sellers. Additionally, the platform features a Lost & Found section, allowing users to report lost belongings and facilitating their return to the rightful owners in an organized and efficient manner."
+              link="https://github.com/ktiwari598/IIITBuyNSell"
             />
           </Col>
         </Row>
